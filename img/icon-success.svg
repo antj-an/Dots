@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16" height="16" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Base" width="16" height="16" rx="4" fill="rgba(0,255,0,0)" stroke="#31a228" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="7.607" height="6.071" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Positive_Icon" data-name="Positive Icon" d="M3.243,5.778a1,1,0,0,1-1.414,0L.292,4.243A1,1,0,0,1,1.707,2.828l.829.829L5.9.293A1,1,0,0,1,7.313,1.707Z" transform="translate(4.197 5.232)" fill="rgba(0,255,0,0)" stroke="#31a228" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Checkbox_Active" data-name="Checkbox/Active" clip-path="url(#clip-path)">
+    <g id="Base_Layout" data-name="Base / Layout">
+      <rect id="Base_Layout_background" data-name="Base / Layout background" width="16" height="16" fill="rgba(0,255,0,0)" stroke="#31a228" stroke-width="1"/>
+      <rect id="Base-2" data-name="Base" width="16" height="16" rx="4" fill="rgba(0,255,0,0)" stroke="#31a228" stroke-width="1"/>
+      <g clip-path="url(#clip-path-2)">
+        <g id="_Color" data-name="↳ 🎨Color">
+          <rect id="_Color_background" data-name="↳ 🎨Color background" width="16" height="16" fill="rgba(0,255,0,0)" stroke="#31a228" stroke-width="1"/>
+          <rect id="Base-3" data-name="Base" width="16" height="16" fill="rgba(0,255,0,0)" stroke="#31a228" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <g id="Border">
+      <rect id="Border_background" data-name="Border background" width="16" height="16" fill="rgba(0,255,0,0)" stroke="#31a228" stroke-width="1"/>
+      <g id="Border_Shape" data-name="Border Shape" fill="rgba(0,255,0,0)" stroke="#31a228" stroke-miterlimit="10" stroke-width="1">
+        <rect width="16" height="16" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="15" height="15" rx="3.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Icon" transform="translate(4.197 5.232)" clip-path="url(#clip-path-3)">
+      <path id="Positive_Icon-2" data-name="Positive Icon" d="M3.243,5.778a1,1,0,0,1-1.414,0L.292,4.243A1,1,0,0,1,1.707,2.828l.829.829L5.9.293A1,1,0,0,1,7.313,1.707Z" fill="rgba(0,255,0,0)" stroke="#31a228" stroke-width="1"/>
+      <g transform="translate(-4.197 -5.232)" clip-path="url(#clip-path-4)">
+        <g id="_Color-2" data-name="↳ 🎨Color">
+          <rect id="_Color_background-2" data-name="↳ 🎨Color background" width="16" height="16" fill="rgba(0,255,0,0)" stroke="#31a228" stroke-width="1"/>
+          <rect id="Base-4" data-name="Base" width="16" height="16" fill="rgba(0,255,0,0)" stroke="#31a228" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

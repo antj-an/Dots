@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16" height="16" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Base" width="16" height="16" rx="4" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="8" height="8" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Error_Icon" data-name="Error Icon" d="M6.308,7.705,4,5.4,1.692,7.709a.991.991,0,0,1-1.4-1.4L2.6,4,.291,1.691a.991.991,0,1,1,1.4-1.4L4,2.6,6.308.295a.991.991,0,0,1,1.4,1.4L5.4,4,7.709,6.3a.991.991,0,0,1-1.4,1.4Z" transform="translate(4 4)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Checkbox_Active" data-name="Checkbox/Active" clip-path="url(#clip-path)">
+    <g id="Base_Layout" data-name="Base / Layout">
+      <rect id="Base_Layout_background" data-name="Base / Layout background" width="16" height="16" fill="rgba(0,0,0,0)"/>
+      <rect id="Base-2" data-name="Base" width="16" height="16" rx="4" fill="#fff"/>
+      <g clip-path="url(#clip-path-2)">
+        <g id="_Color" data-name="↳ 🎨Color">
+          <rect id="_Color_background" data-name="↳ 🎨Color background" width="16" height="16" fill="rgba(0,0,0,0)"/>
+          <rect id="Base-3" data-name="Base" width="16" height="16" fill="#f85359"/>
+        </g>
+      </g>
+    </g>
+    <g id="Border">
+      <rect id="Border_background" data-name="Border background" width="16" height="16" fill="rgba(0,0,0,0)"/>
+      <g id="Border_Shape" data-name="Border Shape" fill="none" stroke="#ed1c24" stroke-miterlimit="10" stroke-width="1">
+        <rect width="16" height="16" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="15" height="15" rx="3.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Icon" transform="translate(4 4)" clip-path="url(#clip-path-3)">
+      <path id="Error_Icon-2" data-name="Error Icon" d="M6.308,7.705,4,5.4,1.692,7.709a.991.991,0,0,1-1.4-1.4L2.6,4,.291,1.691a.991.991,0,1,1,1.4-1.4L4,2.6,6.308.295a.991.991,0,0,1,1.4,1.4L5.4,4,7.709,6.3a.991.991,0,0,1-1.4,1.4Z" fill="none"/>
+      <g transform="translate(-4 -4)" clip-path="url(#clip-path-4)">
+        <g id="_Color-2" data-name="↳ 🎨Color">
+          <rect id="_Color_background-2" data-name="↳ 🎨Color background" width="16" height="16" fill="rgba(0,0,0,0)"/>
+          <rect id="Base-4" data-name="Base" width="16" height="16" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
